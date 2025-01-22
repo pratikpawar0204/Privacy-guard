@@ -2,7 +2,7 @@
 Protect Indian PAN/Aadhaar/Bank details from accidental leaks.
 
 ## 🛡️ Features
-- Real-time detection of Indian sensitive data
+- Real-time detection of sensitive data.
 
 ## 📥 Installation
 1.  [load unpacked](#development)
